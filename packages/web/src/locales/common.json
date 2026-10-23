@@ -1,0 +1,29 @@
+{
+  "cancel": "Отмена",
+  "confirm": "Подтвердить",
+  "connecting": "Соединение...",
+  "delete": "Удалить",
+  "exit": "Выйти",
+  "exitFullscreen": "Выйти из полноэкранного режима",
+  "fullscreen": "Полный экран",
+  "language": {
+    "de": "Deutsch - German",
+    "en": "English - English",
+    "es": "Español - Spanish",
+    "fr": "Français - French",
+    "it": "Italiano - Italian",
+    "ja": "日本語 - Japanese",
+    "tr": "Türkçe - Turkish",
+    "vi": "Tiếng Việt - Vietnamese",
+    "ru": "Русский - Russian"
+  },
+  "loading": "Загрузка...",
+  "next": "Следующий",
+  "save": "Сохранить",
+  "seconds": "сек",
+  "skip": "Пропустить",
+  "submit": "Принять",
+  "close": "Зарыть",
+  "previous": "Предыдущий",
+  "changeLanguage": "Изменить язык"
+}
