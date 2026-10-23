@@ -1,0 +1,71 @@
+{
+  "answerNoted": "Спасибо, принял к сведению",
+  "confirm": "Подтвердить",
+  "correct": "Отлично!",
+  "gamePinLabel": "ПИН код игры:",
+  "generatedUsernameNotice": "При присоединении вам будет присвоен случайный никнейм.",
+  "hud": {
+    "answers": "Ответы",
+    "time": "Время"
+  },
+  "media": {
+    "showImage": "Показать изображение",
+    "showVideo": "Показать видео"
+  },
+  "question": {
+    "show": "Показать вопрос"
+  },
+  "joinInstruction": "Присоединиться к игре как",
+  "leaderboard": "Таблица лидеров",
+  "lock": {
+    "lock": "Закрыть комнату",
+    "unlock": "Открыть комнату"
+  },
+  "pinLabel": "ПИН код",
+  "playerConnectionLost": "Соединение потеряно",
+  "playerReconnecting": "Ожидание восстановления соединения",
+  "playersJoined": "Игроки присоединились",
+  "questionPrefix": "Вопрос #",
+  "rank_ordinal_one": "{{count}}-е место",
+  "rank_ordinal_two": "{{count}}-е место",
+  "rank_ordinal_few": "{{count}}-е место",
+  "rank_ordinal_other": "{{count}}-е место",
+  "reconnect": "Восстановить соединение",
+  "reconnectTitle": "Вы были в игре",
+  "resultBehind": ", позади ",
+  "resultTop": "Вы закончили ",
+  "settings": {
+    "autoAdvance": {
+      "hint": "Автоматический переход к следующему этапу после раскрытия результатов и показа таблицы лидеров.",
+      "label": "Автоматический переход",
+      "leaderboardDelay": "Таблица лидеров",
+      "responsesDelay": "Результат"
+    },
+    "generatedUsernames": {
+      "label": "Сгенерировать никнеймы",
+      "hint": "Игроки выбирают из предложенных имён, а не вводят свои собственные."
+    },
+    "answersOnly": {
+      "label": "Только ответы",
+      "hint": "Игроки видят только кнопки с вариантами ответа, а также кнопку, позволяющую ещё раз прочитать вопрос."
+    },
+    "title": "Настройки игры"
+  },
+  "startGame": "Старт",
+  "summary": {
+    "title": "Опрос завершён",
+    "participants": "Участники",
+    "questions": "Вопросы"
+  },
+  "usernamePlaceholder": "введите имя пользователя",
+  "waitingForAnswers": "Ожидание ответа от игроков",
+  "waitingForPlayers": "Ожидание игроков",
+  "wrong": "Очень жаль",
+  "estimation": {
+    "yourAnswer": "Ваш ответ",
+    "rangeHint": "Между {{min}} и {{max}}"
+  },
+  "showQrCode": "Показать QR код",
+  "streak": "Серия ответов",
+  "pinDigit": "Цифра PIN-кода {{position}}"
+}
