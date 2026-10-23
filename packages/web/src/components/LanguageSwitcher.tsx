@@ -9,6 +9,7 @@ import { Globe } from "lucide-react"
 import { useTranslation } from "react-i18next"
 
 const LANGUAGES = [
+  { code: "ru", label: "common:language.ru" },
   { code: "de", label: "common:language.de" },
   { code: "en", label: "common:language.en" },
   { code: "es", label: "common:language.es" },
