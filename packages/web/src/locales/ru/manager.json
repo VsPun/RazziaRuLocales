@@ -1,0 +1,52 @@
+{
+  "configurationsTitle": "Настройки",
+  "logout": "Выйти",
+  "passwordPlaceholder": "Пароль",
+  "quizz": {
+    "create": "Создать квиз",
+    "delete": "Удалить квиз",
+    "deleteConfirm": "Вы уверены, что хотите удалить \"{{name}}\"? Это действие нельзя отменить.",
+    "deleted": "Квиз удалена",
+    "export": "Выгрузить квиз как JSON",
+    "import": "Загрузить квиз из JSON",
+    "none": "Квизы пока не созданы",
+    "notFound": "Квизы не найдены",
+    "pleaseCreate": "Пожалуйста, сначала создайте квиз",
+    "pleaseSelect": "Пожалуйста, выберите квиз",
+    "startGame": "Начать игру",
+    "edit": "Изменить квиз"
+  },
+  "result": {
+    "delete": "Удалить результат",
+    "deleteConfirm": "Удалить результат для \"{{name}}\"? Это действие нельзя отменить.",
+    "deleted": "Результат удален",
+    "noAnswer": "Нет ответа",
+    "none": "Результатов пока нет, завершите игру, чтобы увидеть здесь отчёты",
+    "paginationOf": " из ",
+    "stats": {
+      "correctAnswers": "Правильные ответы",
+      "playersAnswered": "Игроки ответили"
+    },
+    "table": {
+      "answered": "Отвечено",
+      "correct": " Правильный",
+      "correctIncorrect": "Правильный / Не правильный",
+      "incorrect": " Не правильный",
+      "player": "Игрок",
+      "points": "Очки"
+    },
+    "playerCount": "{{count}} игрок(и)",
+    "timeLimitSuffix": "с ограничение по времени",
+    "estimation": {
+      "answered": "Отвечено",
+      "withinMargin": "{{value}} ± {{margin}}",
+      "outsideMargin": "За пределами границ",
+      "average": "Средний ответ: {{value}}"
+    }
+  },
+  "tabs": {
+    "play": "Играть",
+    "quizz": "Квиз",
+    "results": "Результаты"
+  }
+}
